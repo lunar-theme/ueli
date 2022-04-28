@@ -1,32 +1,34 @@
 <p align="center">
     <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" />
-    <h2 align="center">Lunar for App</h2>
+    <h2 align="center">Lunar for Ueli</h2>
 </p>
 
 <p align="center">A minimal black and blue color scheme inspired by space 🚀</p>
 
 ## Usage
 
-1. Open App
-2. Under settings, import `lunar.theme`
-3. Select `Lunar` from the themes dropdown
+1. [dwonload the theme](https://github.com/Abod1960/ueli/releases/download/1.0/Lunar.json).
+2. open Ueli settings.
+3. go to the color theme tab.
+4. in the upper right corner click on the three dots then click import color theme.
+5. navigate to the theme location then click import.
+6. Enjoy!
+
 
 ## Gallery
 
-![Lunar with App](assets/template.png)
+![Lunar for OneCommander](https://i.imgur.com/AEmEroC.png)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
+This theme is maintained by the following persons and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
 
-[![sheep](https://avatars.githubusercontent.com/u/68562536?v=4)](https://github.com/sheeepdev) |
+<a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
 --- |
-[sheep](https://github.com/sheeepdev) |
+<a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
 
-## Style guide
+## License
 
-> Be sure to remove this section 😌
+Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br />
+This project is licensed under the [GPL-3.0](https://github.com/lunar-theme/onecommander/blob/main/LICENSE) license.
 
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "A space inspired theme for App"
-- Generate and upload social image via [Lunar Images](https://lunar-images.vercel.app)
