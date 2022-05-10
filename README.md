@@ -7,11 +7,11 @@
 
 ## Usage
 
-1. [dwonload the theme](https://github.com/Abod1960/ueli/releases/download/1.0/Lunar.json).
-2. open Ueli settings.
-3. go to the color theme tab.
-4. in the upper right corner click on the three dots then click import color theme.
-5. navigate to the theme location then click import.
+1. [Download the theme](https://github.com/Abod1960/ueli/releases/download/1.0/Lunar.json).
+2. Open Ueli settings.
+3. Go to the color theme tab.
+4. In the upper right corner click on the three dots then click import color theme.
+5. Navigate to the theme location then click import.
 6. Enjoy!
 
 
@@ -19,13 +19,11 @@
 
 ![Lunar for OneCommander](https://i.imgur.com/AEmEroC.png)
 
-## Team
+## Contributors
 
-This theme is maintained by the following persons and a bunch of [awesome contributors](https://github.com/lunar-theme/template/graphs/contributors).
-
-<a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
---- |
-<a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
+<a href="https://github.com/lunar-theme/ueli/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lunar-theme/ueli" />
+</a>
 
 ## License
 
